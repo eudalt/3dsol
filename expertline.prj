@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] expertline saved to:[C:/Users/1dal/OneDrive/DISSENY/expertline] at:[2/19/22] 
+(VLISP-PROJECT-LIST
+  :name
+  expertline
+  :own-list
+  ("contablocs" "DTOTAL")
+  :fas-directory
+  nil
+  :tmp-directory
+  nil
+  :project-keys
+  (:BUILD (:standard))
+  :context-id
+  :AUTOLISP
+)
+;;; EOF

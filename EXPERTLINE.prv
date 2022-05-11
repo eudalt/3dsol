@@ -1,0 +1,15 @@
+;;; Archivo de creación Visual LISP [V1.0] EXPERTLINE saved to:[C:/Users/EUDALT/OneDrive/DISSENY/expertline] at:[1/3/22] 
+(PRV-DEF (:target . "EXPERTLINE.VLX")
+	 (:active-x . T)
+	 (:separate-namespace)
+	 (:protected . T)
+	 (:load-file-list
+	   (:lsp "contablocs.lsp")
+	   (:lsp "DTOTAL.lsp")
+	 )
+	 (:require-file-list (:DCL "DTOTAL.DCL"))
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . st)
+)
+;; EOF
